@@ -1,0 +1,193 @@
+ID: bb.1
+Name: bb.1
+Description: bb.1
+Number of features: 0
+Seq('atggctgccgatggttatcttccagattggctcgaggacaacctctctgagggc...taa', SingleLetterAlphabet())ID: bb.2
+Name: bb.2
+Description: bb.2
+Number of features: 0
+Seq('atggctgccgatggttatcttccagattggctcgaggacaacctctctgagggc...taa', SingleLetterAlphabet())ID: cy.2
+Name: cy.2
+Description: cy.2
+Number of features: 0
+Seq('atggctgccgatggttatcttccagattggctcgaggacaacctctctgagggc...taa', SingleLetterAlphabet())ID: cy.3
+Name: cy.3
+Description: cy.3
+Number of features: 0
+Seq('atggctgccgatggttatcttccagattggctcgaggacaacctctctgagggc...taa', SingleLetterAlphabet())ID: cy.4
+Name: cy.4
+Description: cy.4
+Number of features: 0
+Seq('atggctgccgatggttatcttccagattggctcgaggacaacctctctgagggc...taa', SingleLetterAlphabet())ID: cy.5
+Name: cy.5
+Description: cy.5
+Number of features: 0
+Seq('atggctgccgatggttatcttccagattggctcgagggcaacctctctgagggc...taa', SingleLetterAlphabet())ID: cy.6
+Name: cy.6
+Description: cy.6
+Number of features: 0
+Seq('atggctgccgatggttatcttccagattggctcgaggacaacctctctgagggc...taa', SingleLetterAlphabet())ID: hu.14
+Name: hu.14
+Description: hu.14
+Number of features: 0
+Seq('atggctgccgatggttatcttccagattggctcgaggacaaccttagtgaagga...taa', SingleLetterAlphabet())ID: hu.17
+Name: hu.17
+Description: hu.17
+Number of features: 0
+Seq('atggctgccgatggttatcttccagattggctcgaggacaacctctctgagggc...taa', SingleLetterAlphabet())ID: hu.31
+Name: hu.31
+Description: hu.31
+Number of features: 0
+Seq('atggctgccgatggttatcttccagattggctcgaggacactctctctgaagga...taa', SingleLetterAlphabet())ID: hu.32
+Name: hu.32
+Description: hu.32
+Number of features: 0
+Seq('atggctgccgatggttatcttccagattggctcgaggacactctctctgaagga...taa', SingleLetterAlphabet())ID: hu.37
+Name: hu.37
+Description: hu.37
+Number of features: 0
+Seq('atggctgctgacggttatcttccagattggctcgaggacaacctctctgagggc...taa', SingleLetterAlphabet())ID: hu.39
+Name: hu.39
+Description: hu.39
+Number of features: 0
+Seq('atggctgccgatggttatcttccagattggctcgaggacaacctctctgagggc...taa', SingleLetterAlphabet())ID: hu.40
+Name: hu.40
+Description: hu.40
+Number of features: 0
+Seq('atggctgctgacggttatcttccagattggctcgaggacaacctctctgagggc...taa', SingleLetterAlphabet())ID: hu.41
+Name: hu.41
+Description: hu.41
+Number of features: 0
+Seq('atggctgctgacggttatcttccagattggctcgaggacaacctctctgagggc...taa', SingleLetterAlphabet())ID: hu.42
+Name: hu.42
+Description: hu.42
+Number of features: 0
+Seq('atggctgctgacggttatcttccagattggctcgaggacaacctctctgagggc...taa', SingleLetterAlphabet())ID: hu.43
+Name: hu.43
+Description: hu.43
+Number of features: 0
+Seq('atggctgctgacggttatcttccagattggctcgaggacaacctctctgagggc...taa', SingleLetterAlphabet())ID: hu.44
+Name: hu.44
+Description: hu.44
+Number of features: 0
+Seq('atggctgccgatggttatcttccagattggctcgaggacactctctctgaagga...taa', SingleLetterAlphabet())ID: hu.46
+Name: hu.46
+Description: hu.46
+Number of features: 0
+Seq('atggctgccgacggttatcttccagattggctcgaggacactctctctgaagga...taa', SingleLetterAlphabet())ID: hu.48
+Name: hu.48
+Description: hu.48
+Number of features: 0
+Seq('atggctgccgatggttatcttccagattggctcgaggacaacctctctgagggc...taa', SingleLetterAlphabet())ID: hu.6
+Name: hu.6
+Description: hu.6
+Number of features: 0
+Seq('atggctgccgatggttatcttccagattggctcgaggacaacctctctgagggc...taa', SingleLetterAlphabet())ID: hu.66
+Name: hu.66
+Description: hu.66
+Number of features: 0
+Seq('atggctgctgacggttatcttccagattggctcgaggacaacctctctgagggc...taa', SingleLetterAlphabet())ID: hu.67
+Name: hu.67
+Description: hu.67
+Number of features: 0
+Seq('atggctgctgacggttatcttccagattggctcgaggacaacctctctgagggc...taa', SingleLetterAlphabet())ID: pi.1
+Name: pi.1
+Description: pi.1
+Number of features: 0
+Seq('atggctgctgacggttatcttccagattggctcgaggacaacctctctgagggc...taa', SingleLetterAlphabet())ID: pi.2
+Name: pi.2
+Description: pi.2
+Number of features: 0
+Seq('atggctgctgacggttatcttccagattggctcgaggacaacctctctgagggc...taa', SingleLetterAlphabet())ID: pi.3
+Name: pi.3
+Description: pi.3
+Number of features: 0
+Seq('atggctgctgacggttatcttccagattggctcgaggacaacctctctgagggc...taa', SingleLetterAlphabet())ID: rh.10
+Name: rh.10
+Description: rh.10
+Number of features: 0
+Seq('atggctgccgatggttatcttccagattggctcgaggacaacctctctgagggc...taa', SingleLetterAlphabet())ID: rh.13
+Name: rh.13
+Description: rh.13
+Number of features: 0
+Seq('atggctgccgatggttatcttccagattggctcgaggacaacctctctgagggc...taa', SingleLetterAlphabet())ID: rh.2
+Name: rh.2
+Description: rh.2
+Number of features: 0
+Seq('atggctgccgatggttatcttccagattggcttgaggacaacctctctgagggc...taa', SingleLetterAlphabet())ID: rh.35
+Name: rh.35
+Description: rh.35
+Number of features: 0
+Seq('atggctgccgatggttatcttccagattggctcgaggacaacctctctgagggc...taa', SingleLetterAlphabet())ID: rh.36
+Name: rh.36
+Description: rh.36
+Number of features: 0
+Seq('atggctgccgatggttatcttccagattggctcgaggacaacctctctgagggc...taa', SingleLetterAlphabet())ID: rh.37
+Name: rh.37
+Description: rh.37
+Number of features: 0
+Seq('atggctgccgatggttatcttccagattggctcgaggacaacctctctgagggc...taa', SingleLetterAlphabet())ID: rh.38
+Name: rh.38
+Description: rh.38
+Number of features: 0
+Seq('atggctgctgacggttatcttccagattggctcgaggacaacctctctgagggc...taa', SingleLetterAlphabet())ID: rh.40
+Name: rh.40
+Description: rh.40
+Number of features: 0
+Seq('atggctgctgacggttatcttccagattggctcgaggacaacctctctgagggc...taa', SingleLetterAlphabet())ID: rh.43
+Name: rh.43
+Description: rh.43
+Number of features: 0
+Seq('atggctgccgatggttatcttccagattggctcgaggacaacctctctgagggc...taa', SingleLetterAlphabet())ID: rh.48
+Name: rh.48
+Description: rh.48
+Number of features: 0
+Seq('atggctgctgacggttatcttccagattggctcgaggacaacctctctgagggc...taa', SingleLetterAlphabet())ID: rh.49
+Name: rh.49
+Description: rh.49
+Number of features: 0
+Seq('atggctgccgatggttatcttccagattggctcgaggacaacctctctgagggc...taa', SingleLetterAlphabet())ID: rh.50
+Name: rh.50
+Description: rh.50
+Number of features: 0
+Seq('atggctgccgatggttatcttccagattggctcgaggacaacctctctgagggc...taa', SingleLetterAlphabet())ID: rh.51
+Name: rh.51
+Description: rh.51
+Number of features: 0
+Seq('atggttgccgatggttatcttccagattggctcgaggacaacctctctgagggc...taa', SingleLetterAlphabet())ID: rh.52
+Name: rh.52
+Description: rh.52
+Number of features: 0
+Seq('atggctgccgatggttatcttccagattggctcgaggacaacctctctgagggc...taa', SingleLetterAlphabet())ID: rh.53
+Name: rh.53
+Description: rh.53
+Number of features: 0
+Seq('atggctgccgatggttatcttccagattggctcgaggacaacctctctgagggc...taa', SingleLetterAlphabet())ID: rh.54
+Name: rh.54
+Description: rh.54
+Number of features: 0
+Seq('atggctgctgacggttatcttccagattggctcgaggacaacctctctgagggc...taa', SingleLetterAlphabet())ID: rh.55
+Name: rh.55
+Description: rh.55
+Number of features: 0
+Seq('atggctgccgatggttatcttccagattggctcgaggacaacctctctgagggc...taa', SingleLetterAlphabet())ID: rh.57
+Name: rh.57
+Description: rh.57
+Number of features: 0
+Seq('atggctgccgatggttatcttccagattggctcgaggacaacctctctgagggc...taa', SingleLetterAlphabet())ID: rh.58
+Name: rh.58
+Description: rh.58
+Number of features: 0
+Seq('atggctgctgacggttatcttccagattggctcgaggacaacctctctgagggc...taa', SingleLetterAlphabet())ID: rh.61
+Name: rh.61
+Description: rh.61
+Number of features: 0
+Seq('atggctgccgatggttatcttccagattggctcgaggacaacctctctgagggc...taa', SingleLetterAlphabet())ID: rh.62
+Name: rh.62
+Description: rh.62
+Number of features: 0
+Seq('atggctgctgacggttatcttccagattggctcgaggacaacctctctgagggc...taa', SingleLetterAlphabet())ID: rh.64
+Name: rh.64
+Description: rh.64
+Number of features: 0
+Seq('atggctgccgatggttatcttccagattggctcgaggacaacctctctgagggc...taa', SingleLetterAlphabet())
