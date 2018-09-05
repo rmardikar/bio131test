@@ -1,1 +1,0 @@
-1. Open the seqs1.fa file and aligned the data in the file using muscle. The output is now called seqs1.aligned.fa. Then we converted the information
