@@ -1,2 +1,3 @@
+>yes1_cst
 GGGCGACCCUGAUGAGCUUGGUUUAGCUCGUCACUGUCCAGGUUCAAUCAGGCGAAACGGUGAAAGCCGUAGGUUGCCC
 ........................xxxxxxxxxxxxxxxxxxxxxx.................................
